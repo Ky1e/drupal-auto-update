@@ -3,7 +3,7 @@
 ## Description ##
 Automate Drupal core, plugin and theme updates on [Pantheon](https://pantheon.io)) with Terminus, CircleCI, Drush, BackstopJS and Slack.
 
-Based off the auto Wordpress update by [Andrew Taylor](https://github.com/ataylorme/wordpress-at-scale-auto-update)
+Inspired by [Andrew Taylor](https://github.com/ataylorme/)
 
 This script will:
 
