@@ -3,8 +3,6 @@
 ## Description ##
 Automate Drupal core, plugin and theme updates on [Pantheon](https://pantheon.io)) with Terminus, CircleCI, Drush, BackstopJS and Slack.
 
-Inspired by [Andrew Taylor](https://github.com/ataylorme/)
-
 This script will:
 
 1. Authenticate with [Terminus](https://github.com/pantheon-systems/terminus) via machine token
@@ -46,3 +44,6 @@ This script will:
 This workflow assumes the `master` branch (dev) and test environments on Pantheon are always in a shippable state as the script will automatically deploy changes from dev to test and live.
 
 All incomplete work should be kept in a [Pantheon multidev environment](https://pantheon.io/docs/multidev/), on a separate Git branch.
+
+
+Inspired by [Andrew Taylor](https://github.com/ataylorme/)
