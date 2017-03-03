@@ -1,7 +1,7 @@
 # Pantheon Drupal Auto Update #
 
 ## Description ##
-Automate Drupal core, plugin and theme updates on [Pantheon](https://pantheon.io)) with Terminus, CircleCI, Drush, BackstopJS and Slack.
+Automate Drupal core, plugin and theme updates on [Pantheon](https://pantheon.io) with Terminus, CircleCI, Drush, BackstopJS and Slack.
 
 This script will:
 
