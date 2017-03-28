@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MULTIDEV="update-drupal"
+MULTIDEV="update-dr"
 
 UPDATES_APPLIED=false
 
